@@ -1,4 +1,4 @@
-package com.project.product_service.exception.handler;
+package com.project.product_service.exception;
 
 public class ProductNotFoundException extends RuntimeException {
     public ProductNotFoundException(String message) {
