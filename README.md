@@ -1,7 +1,5 @@
 <h1 align="center" id="title">Springboot Gateway</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
-
 <p id="description">This project was developed using the knowledge gained from my study of how to implement a gateway using spring boot. The main goal was to implement a simple gateway capable of redirecting routes to the product-service microservice.</p>
 
   
